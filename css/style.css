@@ -7,15 +7,15 @@
  */
 
 .icon-block {
-  padding: 0 50px;
+  padding: 0 30px;
 }
 .icon-block .material-icons {
 	font-size: inherit;
 }
 .slider .btn{
-  margin-top: 70px;
-  padding:0 20px;
-  border-radius: 90px;
+  margin-top:200px;
+  padding:0 5px;
+  border-radius: 300px;
 
 }
 .footer-text{
@@ -27,7 +27,7 @@
 .social-container{
   width: 160%;
   height: 100px;
-  background: white;
+  background: ghostwhite;
   display: flex;
   justify-content: center;
   align-items: center;
