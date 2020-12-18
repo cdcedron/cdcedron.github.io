@@ -25,16 +25,15 @@
     font-size: 25px;
     font-weight: 400;
 }
-.footer-content h1 a:hover{color: var(--blackHover);}
-.footer-content p{
-   font-size: 19px;
-   font-weight: 300;
-   margin:0px 30px;
+.footer-content p1{
+    font-size: 55px;
 }
+
+.footer-content h1 a:hover{color: var(--blackHover);}
 .footer-content .social-footer a i{
-   font-size: 25px;
+   font-size: 40px;
    color: var(--white);
-   margin: 0px 10px;
+   margin: 0px 15px;
    transition: 250ms;
 }
 .footer-content .social-footer a i:hover{
