@@ -1,0 +1,22 @@
+.neb-invite-container .invitationDesignMain .kpl-invitation-content .invitationDesignImg{
+    margin-left: 0;
+    padding-left: 30px;
+}
+
+.invitationContentText{
+    padding-left: 20px;
+    font-family: "Open Sans" !important;
+}
+
+
+#kplDeclineButton,
+#kplProvideButton{
+    width: 170px !important;
+    height: 40px !important;
+    font-family: Roboto, "Helvetica Neue" ,sans-serif !important;
+}
+
+
+.imageContainer{
+    min-height: unset;
+}
