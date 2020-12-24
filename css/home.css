@@ -48,7 +48,7 @@
    color:#707073;
 }
 .card .card-body .info-card .author-name::after{
-    content: 'o';
+    content: ;
     margin:0px 10px;
     font-weight: 300;
 }
