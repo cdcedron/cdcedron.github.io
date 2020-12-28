@@ -43,9 +43,9 @@
 }
 .card .card-body .info-card{margin-top: 20px;}
 .card .card-body .info-card .author-name{
-   font-size: 17px;
+   font-size: 20px;
    font-weight: 500;
-   color:#707073;
+   color:green;
 }
 .card .card-body .info-card .author-name::after{
     content: ;
